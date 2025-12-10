@@ -8,8 +8,8 @@ The purpose of this project is to create an 4 layer PCB functioning as an ESP32 
 - Flash and SD card memory module
 - Optical, audio and environment sensors
 
-#Tool
+# Tool used
 - KiCAD 9
 
-#Files
+# Files
 Project, Schematic, Layout and Gerber Files are uploaded in this repository
